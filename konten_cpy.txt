@@ -1,0 +1,4 @@
+Hello
+ini adalah isi konten dari file = konten.txt
+ini adalah tugas pertama dari matakuliah
+Struktur & Organisasi Data*
